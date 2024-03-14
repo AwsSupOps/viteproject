@@ -1,27 +1,3 @@
 {
-  "function": {
-    "viteprojects380cbc66": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    }
-  },
-  "parameters": {
-    "AMPLIFY_function_viteprojects380cbc66_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "viteprojects380cbc66"
-        }
-      ]
-    },
-    "AMPLIFY_function_viteprojects380cbc66_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "viteprojects380cbc66"
-        }
-      ]
-    }
-  }
+  "function": {}
 }
